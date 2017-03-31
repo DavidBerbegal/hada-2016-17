@@ -8,9 +8,11 @@
 - David Berbegal Esteve (dbe4@alu.ua.es)
 
 ## Nom del projecte
+# HadaFlix
 
 ## Descripció del projecte
-1.	Descripció
+
+## 1.	Descripció
   
 L’aplicació web que volem realitzar serà un videoclub, en el qual es podran llogar les diverses pel·lícules i series que es podran consultar a la pàgina principal. Per altra banda, també podem trobar una pel·lícula i series mitjançant el filtrat de l’any de sortida, categoria a la que pertany, ...
   
@@ -20,7 +22,8 @@ Respecte a la part privada d’un usuari, es podran visualitzar les seues pròpi
   
 En cas de ser un administrador del sistema, amb l’entrada a la part privada es podran afegir, editar i esborrar pel·lícules i series al sistema.
 
-2.	Part Pública
+
+## 2.	Part Pública
 
 En la pàgina principal trobarem un llistat amb totes les pel·lícules i series que tenim disponibles per a poder ser llogades. 
 
@@ -44,7 +47,8 @@ Seguidament s'adjunten alguns mockups de quina seria l'apariència estimada que 
 
 <img src="images/login.png" width="500px">
 
-3.	Llistat EN Pública
+
+## 3.	Llistat EN Pública
 
 - Series
 - Películes
@@ -54,7 +58,8 @@ Seguidament s'adjunten alguns mockups de quina seria l'apariència estimada que 
 - Venta
 - Pedidos
 
-4.	Part Privada
+
+## 4.	Part Privada
 
 En la part privada de l’aplicació es podran visualitzar les dades personals de l’usuari per tal de veure si són correctes o tenen algun tipus d’error. Amb aquesta acció, i si l’usuari ho considera necessari es podran editar les dades si alguna cosa no és correcta o el perfil es troba incomplet. També es podrà esborrar el compte si es pensa que ja no es necessari tenir-lo.
 
@@ -68,7 +73,8 @@ També es podrà veure un llistat de totes les pel·lícules i series que s’ha
 
 <img src="images/editarUsuari.png" width="500px">
 
-5.	Llistat En Privada
+
+## 5.	Llistat En Privada
 
 - Series
 - Películes
@@ -79,6 +85,7 @@ També es podrà veure un llistat de totes les pel·lícules i series que s’ha
 - ListaVentas
 - Pedidos
 
-6.	Possibles millores
+
+## 6.	Possibles millores
 
 La possibilitat d’afegir a la pàgina el llogament de videojocs, al igual que un apartat de merchandising de les diverses pel·lícules i series de les quals es disposen a la base de dades.
