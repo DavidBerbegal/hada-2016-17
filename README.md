@@ -1,7 +1,7 @@
 # Projecte HADA 2016-17
 
 ## Desenvolupadors del projecte:
-- Álvaro Gironés Garcia (agg52@alu.ua.es)
+- Álvaro Gironés Garcia (gg52@alu.ua.es)
 - Javi Monllor Alcaraz (jma86@alu.ua.es)
 - Juan Ruiz de Larrea Aracil (jrl12@alu.ua.es)
 - Javier Rocamora Garcia (jrg81@alu.ua.es)
