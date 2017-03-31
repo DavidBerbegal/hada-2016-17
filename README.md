@@ -13,10 +13,27 @@
 1.	Descripció
 
 2.	Part Pública
+<img src="images/inici.png" width="500px">
+
+<img src="images/Categories.png" width="500px">
+
+<img src="images/series.png" width="500px">
+
+<img src="images/pelicules.png" width="500px">
+
+<img src="images/registre.png" width="500px">
+
+<img src="images/login.png" width="500px">
 
 3.	Llistat EN Pública
 
 4.	Part Privada
+
+<img src="images/administracio.png" width="500px">
+
+<img src="images/perfilUsuari.png" width="500px">
+
+<img src="images/editarUsuari.png" width="500px">
 
 5.	Llistat En Privada
 
