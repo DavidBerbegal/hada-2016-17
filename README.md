@@ -74,7 +74,7 @@ També es podrà veure un llistat de totes les pel·lícules i series que s’ha
 <img src="images/editarUsuari.png" width="500px">
 
 
-## 5.	Llistat En Privada
+## 5.	Llistat EN Privada
 
 - Series
 - Películes
@@ -89,3 +89,4 @@ També es podrà veure un llistat de totes les pel·lícules i series que s’ha
 ## 6.	Possibles millores
 
 La possibilitat d’afegir a la pàgina el llogament de videojocs, al igual que un apartat de merchandising de les diverses pel·lícules i series de les quals es disposen a la base de dades.
+D'altra banda, també seria interessant la possibilitat de poder seleccionar el idioma en el qual es poden visualitzar els continguts de les pel·lícules/series (La sinopsi).
