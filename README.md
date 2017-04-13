@@ -7,6 +7,9 @@
 - Javier Rocamora Garcia (jrg81@alu.ua.es)
 - David Berbegal Esteve (dbe4@alu.ua.es)
 
+## Esquema EERR Base de Dades
+Ubicació: /Esquema Base de Dades/EERR BBDD.png
+
 ## Nom del projecte
 # HadaFlix
 
