@@ -1,0 +1,335 @@
+﻿
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+  min-width: 100%;
+  width: 100%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+  color: red;
+}
+
+#custom-bootstrap-menu.navbar-default {
+  font-size: 1.24em;
+  background-color: rgba(0, 0, 0, 1);
+  background: -webkit-linear-gradient(top, rgba(36, 36, 36, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  background: linear-gradient(to bottom, rgba(36, 36, 36, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  border-bottom-width: 0;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+  color: red;
+  background-color: rgba(248, 248, 248, 0);
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+  color: red;
+  background-color: rgba(64, 64, 64, 1);
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+  color: rgba(214, 214, 214, 1);
+  background-color: rgba(54, 54, 54, 1);
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+  border-color: #363636;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+  background-color: #363636;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+  background-color: #363636;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: red;
+}
+
+#custom-bootstrap-menu {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.35em;
+}
+
+
+/* Splash Screen */
+
+.image {
+  height: 100%;
+  width: 100%;
+  background: url("../img/fondo2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.splash_screen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 55%;
+  z-index: 2;
+}
+
+.page-header {
+  border-bottom-color: #bdbdbd;
+}
+
+.page-header h1:nth-child(1) {
+  font-size: 4.85em;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top: 0.4em;
+  color: red;
+}
+
+.page-header h1:nth-child(2) {
+  font-size: 2.43em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.page-header h1 small {
+  color: red;
+}
+
+.icons i {
+  margin: 0 0.4em;
+  color: red;
+}
+
+.shade {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.78);
+}
+
+.name {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+}
+
+.description {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Peliculas*/
+
+.projects_image {
+  width: 100%;
+  background: url("../img/peli.jpg");
+  background-size: cover;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.projects img {
+  border: 2px solid black;
+  border-radius: 5px;
+  display:block;
+  width: 100%;
+}
+
+.projects .page-header h1 {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  margin: 0.81em;
+  font-size: 50px;
+}
+
+.projects .thumbnail {
+  color: black;
+}
+
+.projects .thumbnail:hover {
+  background-color: red;
+}
+
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Series*/
+
+.projects_image_series {
+  width: 100%;
+  background: url("../img/serie.jpg");
+  background-size: cover;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.projects_series img {
+  border: 2px solid black;
+  border-radius: 5px;
+  display:block;
+  width: 100%;
+}
+
+.projects_series .page-header h1 {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  margin: 0.81em;
+  font-size: 50px;
+}
+
+.projects_series .thumbnail {
+  color: black;
+}
+
+.projects_series .thumbnail:hover {
+  background-color: red;
+}
+
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Juegos*/
+
+.projects_image_juegos {
+  width: 100%;
+  background: url("../img/mass.jpg");
+  background-size: cover;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.projects_juegos img {
+  border: 2px solid black;
+  border-radius: 5px;
+  display:block;
+  width: 100%;
+}
+
+.projects_juegos .page-header h1 {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  margin: 0.81em;
+  font-size: 50px;
+}
+
+.projects_juegos .thumbnail {
+  color: black;
+}
+
+.projects_juegos .thumbnail:hover {
+  background-color: red;
+}
+
+
+/* ------------------- */
+
+
+/* Contact Me */
+
+.contact_image {
+  width: 100%;
+  height: 20.89em;
+  background: url("../img/fin.jpg");
+  background-size: cover;
+  padding: 1.61em 0;
+  font-family: 'Roboto', sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.contact_image h1 {
+  font-size: 3.24em;
+  color: red;
+  margin: 15px 0;
+}
+
+.contact a {
+  margin: 15px;
+}
+
+.contact button i {
+  margin: 0 5px 0 0;
+}
+
+.contact_image {
+  position: relative
+}
+
+.contact {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contact p {
+	display:inline;
+  padding-left: 10px;
+  text-align:left;
+  color: white;
+  margin:auto;
+}
+
+.contact i {
+	position: relative;
+	color:white;
+	text-align:left;
+}
+  
+
+
+/* ------------------ */
+
+
+/* Footer */
+
+.wrapper {
+  height: 3.24em;
+  background-color: rgb(197, 197, 197);
+  width: 100%;
+}
+
+.footer p {
+	display:block;
+  margin: 13px 0 0 0;
+  color: #777;
+  text-align: center;
+}
+
+
+/* ------------------- */
