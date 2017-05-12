@@ -1,0 +1,15 @@
+C:\Users\javie\Downloads\ZZZZ\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\javie\Downloads\ZZZZ\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Downloads\ZZZZ\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\javie\Downloads\ZZZZ\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\javie\Downloads\ZZZZ\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Virginia Aracil\Desktop\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Virginia Aracil\Desktop\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Virginia Aracil\Desktop\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Virginia Aracil\Desktop\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Virginia Aracil\Desktop\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
