@@ -83,7 +83,7 @@
 - Pedidos
 
 
-## <a name="3-4"/> 1.4.	Part Privada
+## <a name="3-4"/> 3.4.	Part Privada
 
 > En la part privada de l’aplicació es podran visualitzar les dades personals de l’usuari per tal de veure si són correctes o tenen algun tipus d’error. Amb aquesta acció, i si l’usuari ho considera necessari es podran editar les dades si alguna cosa no és correcta o el perfil es troba incomplet. També es podrà esborrar el compte si es pensa que ja no es necessari tenir-lo.
 
@@ -141,15 +141,16 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 ### <a name="4-5"/> 4.5. Tasques:
 #### <a name="4-5-1"/> 4.5.1. Planificació Inicial:
 
-|Nom |Tasca |
+| Nom | Tasca |
 | :----: | :----:	|
 | Álvaro Gironés | Proposta de Projecte |
-| | CADClient: |
+| | CADClient: Creació, edició i eliminació de clients|
 |	| ENClient: |
 |	| Test de Client |
-| | CADProveedor: |
+| | CADProveedor: Creació, edició i eliminació de proveïdors |
 | | ENProveedor: |
 |	| Test de Proveïdor	|
+| | Maquetacií |
 |	| Memòria del projecte |
 |	| Presentació del projecte |
 | Javier Monllor | Proposta de Projecte |
@@ -161,7 +162,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 |	| CADAdquisició	|
 |	| ENAdquisició |
 |	| Test de Adquisició |
-|	| CADLineaAdquisició |
+|	| CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició|
 | | ENLineaAdquisició	|
 |	| Test de Línia d’Adquisició	|
 |	| Memòria del projecte |
@@ -170,17 +171,17 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 |	| CADProducte: Creació, edició i eliminació de productes |
 |	| EN Producte: |
 |	| Test de Producte	|
-|	| CADEmpleat:	|
+|	| CADEmpleat:	Creació, edició i eliminació d'empleats|
 |	| EN Empleat:	|
 |	| Test d’Empleat |
 |	| Memòria del projecte |
 |	| Presentació del projecte	|
 | David Berbegal | Proposta de Projecte	|
 |	| Proposta de Projecte (Documentació) |
-|	| CADVenta: |
+|	| CADVenta: Creació, edició i eliminació de vendes|
 |	| ENVenta:	|
 |	| Test de Venta	|
-|	| CADAlquiler:	|
+|	| CADAlquiler:	Creació, edició i eliminació de lloguers|
 |	| ENAlquiler: |
 |	| Test d’Alquil·ler	|
 |	| Memòria del projecte |
@@ -191,15 +192,16 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 
 #### <a name="4-5-2"/> 4.5.2. Planificació Final:
 
-|Nom |Tasca |
+| Nom | Tasca |
 | :----: | :----:	|
 | Álvaro Gironés | Proposta de Projecte |
-| | CADClient: |
+| | CADClient: Creació, edició i eliminació de clients|
 |	| ENClient: |
 |	| Test de Client |
-| | CADProveedor: |
+| | CADProveedor: Creació, edició i eliminació de proveïdors |
 | | ENProveedor: |
 |	| Test de Proveïdor	|
+| | Maquetacií |
 |	| Memòria del projecte |
 |	| Presentació del projecte |
 | Javier Monllor | Proposta de Projecte |
@@ -211,7 +213,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 |	| CADAdquisició	|
 |	| ENAdquisició |
 |	| Test de Adquisició |
-|	| CADLineaAdquisició |
+|	| CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició|
 | | ENLineaAdquisició	|
 |	| Test de Línia d’Adquisició	|
 |	| Memòria del projecte |
@@ -220,17 +222,17 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 |	| CADProducte: Creació, edició i eliminació de productes |
 |	| EN Producte: |
 |	| Test de Producte	|
-|	| CADEmpleat:	|
+|	| CADEmpleat:	Creació, edició i eliminació d'empleats|
 |	| EN Empleat:	|
 |	| Test d’Empleat |
 |	| Memòria del projecte |
 |	| Presentació del projecte	|
 | David Berbegal | Proposta de Projecte	|
 |	| Proposta de Projecte (Documentació) |
-|	| CADVenta: |
+|	| CADVenta: Creació, edició i eliminació de vendes|
 |	| ENVenta:	|
 |	| Test de Venta	|
-|	| CADAlquiler:	|
+|	| CADAlquiler:	Creació, edició i eliminació de lloguers|
 |	| ENAlquiler: |
 |	| Test d’Alquil·ler	|
 |	| Memòria del projecte |
