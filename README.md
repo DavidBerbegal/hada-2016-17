@@ -145,7 +145,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <tr>
     <td>Nom</td> 
     <td>Tasca</td>
-  <tr>
+  </tr>
   <tr>
     <td>Álvaro Gironés Garcia</td>
     <td>Proposta de Projecte</td>
@@ -153,138 +153,219 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <tr>
     <td></td>
     <td>CADClient: Creació, edició i eliminació de clients</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENClient:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Client</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADProveedor: Creació, edició i eliminació de proveïdors</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENProveedor:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Proveïdor</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Producte</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Contacte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Maquetació</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Javier Monllor</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>BBDD</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Creació Projecte Base</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Login</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>ASPX de Registre</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Olvidar Contrasenya</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Javier Rocamora</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Adquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENLineaAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Línia d’Adquisició</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Pel·lícules</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Sèries</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Juan Ruiz de Larrea Aracil</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADProducte: Creació, edició i eliminació de productes</td> 
+  </tr>
   <tr>
     <td></td>
     <td>EN Producte:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Producte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADEmpleat:	Creació, edició i eliminació d'empleats</td> 
+  </tr>
   <tr>
     <td></td>
     <td>EN Empleat:</td> 
+  </tr>
   <tr> 
     <td></td>
     <td>Test d’Empleat</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Carrito</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>David Berbegal Esteve</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Proposta de Projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADVenta: Creació, edició i eliminació de vendes</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENVenta:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Venta</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADAlquiler:	Creació, edició i eliminació de lloguers</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENAlquiler:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test d’Alquil·ler</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Jocs</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Gestió del GitHub</td> 
+  </tr>
 </table>
 
 #### <a name="4-5-2"/> 4.5.2. Planificació Final:
@@ -293,7 +374,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <tr>
     <td>Nom</td> 
     <td>Tasca</td>
-  <tr>
+  </tr>
   <tr>
     <td>Álvaro Gironés Garcia</td>
     <td>Proposta de Projecte</td>
@@ -301,138 +382,219 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <tr>
     <td></td>
     <td>CADClient: Creació, edició i eliminació de clients</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENClient:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Client</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADProveedor: Creació, edició i eliminació de proveïdors</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENProveedor:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Proveïdor</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Producte</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Contacte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Maquetació</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Javier Monllor</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>BBDD</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Creació Projecte Base</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Login</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>ASPX de Registre</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Olvidar Contrasenya</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Javier Rocamora</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Adquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENLineaAdquisició</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Línia d’Adquisició</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Pel·lícules</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Sèries</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>Juan Ruiz de Larrea Aracil</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADProducte: Creació, edició i eliminació de productes</td> 
+  </tr>
   <tr>
     <td></td>
     <td>EN Producte:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Producte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADEmpleat:	Creació, edició i eliminació d'empleats</td> 
+  </tr>
   <tr>
     <td></td>
     <td>EN Empleat:</td> 
+  </tr>
   <tr> 
     <td></td>
     <td>Test d’Empleat</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Carrito</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td>David Berbegal Esteve</td> 
     <td>Proposta de Projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Proposta de Projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADVenta: Creació, edició i eliminació de vendes</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENVenta:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test de Venta</td> 
+  </tr>
   <tr>
     <td></td>
     <td>CADAlquiler:	Creació, edició i eliminació de lloguers</td> 
+  </tr>
   <tr>
     <td></td>
     <td>ENAlquiler:</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Test d’Alquil·ler</td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td>APSX de Jocs</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Memòria del projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Presentació del projecte (Documentació)</td> 
+  </tr>
   <tr>
     <td></td>
     <td>Gestió del GitHub</td> 
+  </tr>
 </table>
 
 # <a name="5"/> 5. Presentació del projecte: 
