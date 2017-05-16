@@ -141,105 +141,299 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 ### <a name="4-5"/> 4.5. Tasques:
 #### <a name="4-5-1"/> 4.5.1. Planificació Inicial:
 
-| Nom | Tasca |
-| :----: | :----:	|
-| Álvaro Gironés | Proposta de Projecte |
-| | CADClient: Creació, edició i eliminació de clients|
-|	| ENClient: |
-|	| Test de Client |
-| | CADProveedor: Creació, edició i eliminació de proveïdors |
-| | ENProveedor: |
-|	| Test de Proveïdor	|
-| | Maquetacií |
-|	| Memòria del projecte |
-|	| Presentació del projecte |
-| Javier Monllor | Proposta de Projecte |
-|	| BBDD |
-|	| Creació Projecte Base |
-|	| Memòria del projecte |
-|	| Presentació del projecte |
-| Javier Rocamora | Proposta de Projecte |
-|	| CADAdquisició	|
-|	| ENAdquisició |
-|	| Test de Adquisició |
-|	| CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició|
-| | ENLineaAdquisició	|
-|	| Test de Línia d’Adquisició	|
-|	| Memòria del projecte |
-|	| Presentació del projecte	|
-| Juan Ruíz |Proposta de Projecte	|
-|	| CADProducte: Creació, edició i eliminació de productes |
-|	| EN Producte: |
-|	| Test de Producte	|
-|	| CADEmpleat:	Creació, edició i eliminació d'empleats|
-|	| EN Empleat:	|
-|	| Test d’Empleat |
-|	| Memòria del projecte |
-|	| Presentació del projecte	|
-| David Berbegal | Proposta de Projecte	|
-|	| Proposta de Projecte (Documentació) |
-|	| CADVenta: Creació, edició i eliminació de vendes|
-|	| ENVenta:	|
-|	| Test de Venta	|
-|	| CADAlquiler:	Creació, edició i eliminació de lloguers|
-|	| ENAlquiler: |
-|	| Test d’Alquil·ler	|
-|	| Memòria del projecte |
-|	| Memòria del projecte (Documentació) |
-|	| Presentació del projecte |
-|	| Presentació del projecte (Documentació) |
-|	| Gestió del GitHub |
+<table>
+  <tr>
+    <td>Nom</td> 
+    <td>Tasca</td>
+  <tr>
+  <tr>
+    <td>Álvaro Gironés Garcia</td>
+    <td>Proposta de Projecte</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CADClient: Creació, edició i eliminació de clients</td> 
+  <tr>
+    <td></td>
+    <td>ENClient:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Client</td> 
+  <tr>
+    <td></td>
+    <td>CADProveedor: Creació, edició i eliminació de proveïdors</td> 
+  <tr>
+    <td></td>
+    <td>ENProveedor:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Proveïdor</td> 
+  <tr>
+    <td></td>
+    <td>Maquetació</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Javier Monllor</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>BBDD</td> 
+  <tr>
+    <td></td>
+    <td>Creació Projecte Base</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Javier Rocamora</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>CADAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>ENAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>Test de Adquisició</td> 
+  <tr>
+    <td></td>
+    <td>CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició</td> 
+  <tr>
+    <td></td>
+    <td>ENLineaAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>Test de Línia d’Adquisició</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Juan Ruiz de Larrea Aracil</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>CADProducte: Creació, edició i eliminació de productes</td> 
+  <tr>
+    <td></td>
+    <td>EN Producte:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Producte</td> 
+  <tr>
+    <td></td>
+    <td>CADEmpleat:	Creació, edició i eliminació d'empleats</td> 
+  <tr>
+    <td></td>
+    <td>EN Empleat:</td> 
+  <tr> 
+    <td></td>
+    <td>Test d’Empleat</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>David Berbegal Esteve</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>Proposta de Projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>CADVenta: Creació, edició i eliminació de vendes</td> 
+  <tr>
+    <td></td>
+    <td>ENVenta:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Venta</td> 
+  <tr>
+    <td></td>
+    <td>CADAlquiler:	Creació, edició i eliminació de lloguers</td> 
+  <tr>
+    <td></td>
+    <td>ENAlquiler:</td> 
+  <tr>
+    <td></td>
+    <td>Test d’Alquil·ler</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>Gestió del GitHub</td> 
+</table>
 
 #### <a name="4-5-2"/> 4.5.2. Planificació Final:
 
-| Nom | Tasca |
-| :----: | :----:	|
-| Álvaro Gironés | Proposta de Projecte |
-| | CADClient: Creació, edició i eliminació de clients|
-|	| ENClient: |
-|	| Test de Client |
-| | CADProveedor: Creació, edició i eliminació de proveïdors |
-| | ENProveedor: |
-|	| Test de Proveïdor	|
-| | Maquetacií |
-|	| Memòria del projecte |
-|	| Presentació del projecte |
-| Javier Monllor | Proposta de Projecte |
-|	| BBDD |
-|	| Creació Projecte Base |
-|	| Memòria del projecte |
-|	| Presentació del projecte |
-| Javier Rocamora | Proposta de Projecte |
-|	| CADAdquisició	|
-|	| ENAdquisició |
-|	| Test de Adquisició |
-|	| CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició|
-| | ENLineaAdquisició	|
-|	| Test de Línia d’Adquisició	|
-|	| Memòria del projecte |
-|	| Presentació del projecte	|
-| Juan Ruíz |Proposta de Projecte	|
-|	| CADProducte: Creació, edició i eliminació de productes |
-|	| EN Producte: |
-|	| Test de Producte	|
-|	| CADEmpleat:	Creació, edició i eliminació d'empleats|
-|	| EN Empleat:	|
-|	| Test d’Empleat |
-|	| Memòria del projecte |
-|	| Presentació del projecte	|
-| David Berbegal | Proposta de Projecte	|
-|	| Proposta de Projecte (Documentació) |
-|	| CADVenta: Creació, edició i eliminació de vendes|
-|	| ENVenta:	|
-|	| Test de Venta	|
-|	| CADAlquiler:	Creació, edició i eliminació de lloguers|
-|	| ENAlquiler: |
-|	| Test d’Alquil·ler	|
-|	| Memòria del projecte |
-|	| Memòria del projecte (Documentació) |
-|	| Presentació del projecte |
-|	| Presentació del projecte (Documentació) |
-|	| Gestió del GitHub |
+<table>
+  <tr>
+    <td>Nom</td> 
+    <td>Tasca</td>
+  <tr>
+  <tr>
+    <td>Álvaro Gironés Garcia</td>
+    <td>Proposta de Projecte</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CADClient: Creació, edició i eliminació de clients</td> 
+  <tr>
+    <td></td>
+    <td>ENClient:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Client</td> 
+  <tr>
+    <td></td>
+    <td>CADProveedor: Creació, edició i eliminació de proveïdors</td> 
+  <tr>
+    <td></td>
+    <td>ENProveedor:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Proveïdor</td> 
+  <tr>
+    <td></td>
+    <td>Maquetació</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Javier Monllor</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>BBDD</td> 
+  <tr>
+    <td></td>
+    <td>Creació Projecte Base</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Javier Rocamora</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>CADAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>ENAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>Test de Adquisició</td> 
+  <tr>
+    <td></td>
+    <td>CADLineaAdquisició: Creació, edició i eliminació de línees d'adquisició</td> 
+  <tr>
+    <td></td>
+    <td>ENLineaAdquisició</td> 
+  <tr>
+    <td></td>
+    <td>Test de Línia d’Adquisició</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>Juan Ruiz de Larrea Aracil</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>CADProducte: Creació, edició i eliminació de productes</td> 
+  <tr>
+    <td></td>
+    <td>EN Producte:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Producte</td> 
+  <tr>
+    <td></td>
+    <td>CADEmpleat:	Creació, edició i eliminació d'empleats</td> 
+  <tr>
+    <td></td>
+    <td>EN Empleat:</td> 
+  <tr> 
+    <td></td>
+    <td>Test d’Empleat</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td>David Berbegal Esteve</td> 
+    <td>Proposta de Projecte</td> 
+  <tr>
+    <td></td>
+    <td>Proposta de Projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>CADVenta: Creació, edició i eliminació de vendes</td> 
+  <tr>
+    <td></td>
+    <td>ENVenta:</td> 
+  <tr>
+    <td></td>
+    <td>Test de Venta</td> 
+  <tr>
+    <td></td>
+    <td>CADAlquiler:	Creació, edició i eliminació de lloguers</td> 
+  <tr>
+    <td></td>
+    <td>ENAlquiler:</td> 
+  <tr>
+    <td></td>
+    <td>Test d’Alquil·ler</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Memòria del projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte</td> 
+  <tr>
+    <td></td>
+    <td>Presentació del projecte (Documentació)</td> 
+  <tr>
+    <td></td>
+    <td>Gestió del GitHub</td> 
+</table>
 
 # <a name="5"/> 5. Presentació del projecte: 
 ## Ubicació: /Presentacio/Presentacio.pdf
