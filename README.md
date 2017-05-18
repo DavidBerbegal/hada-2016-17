@@ -59,17 +59,19 @@
 
 > Seguidament s'adjunten alguns mockups de quina seria l'apariència estimada que obtindríem com a resultat:
 
-<img src="images/inici.png" width="500px">
+<p align= "center">
+  <img src="images/inici.png" width="500px">
+  
+  <img src="images/Categories.png" width="500px">
 
-<img src="images/Categories.png" width="500px">
+  <img src="images/series.png" width="500px">
 
-<img src="images/series.png" width="500px">
+  <img src="images/pelicules.png" width="500px">
 
-<img src="images/pelicules.png" width="500px">
+  <img src="images/registre.png" width="500px">
 
-<img src="images/registre.png" width="500px">
-
-<img src="images/login.png" width="500px">
+  <img src="images/login.png" width="500px">
+</p>
 
 
 ## <a name="3-3"/> 3.3.	Llistat EN Pública
@@ -91,11 +93,13 @@
 
 > També es podrà veure un llistat de totes les pel·lícules i series que s’han llogat des de que es va crear un usuari el compte a la pàgina.
 
-<img src="images/administracio.png" width="500px">
+<p align= "center">
+  <img src="images/administracio.png" width="500px">
 
-<img src="images/perfilUsuari.png" width="500px">
+  <img src="images/perfilUsuari.png" width="500px">
 
-<img src="images/editarUsuari.png" width="500px">
+  <img src="images/editarUsuari.png" width="500px">
+</p>
 
 
 ## <a name="3-5"/> 3.5.	Llistat EN Privada
@@ -133,6 +137,48 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
 
 ## <a name="4-4"/> 4.4. Planificació: 
 ### <a name="4-4-1"/> 4.4.1. Guia d’ús de l’aplicació:
+> Amb l'entrada a la pàgina ens trovem, primerament, amb el login de la pàgina; el qual serà imprescindible completar si desitjem accedir a la resta del contingut de la pàgina. La seua aparença és la següent:
+<p align= "center">
+  <img src="images/Login.png" width="500px">
+</p>
+
+> En cas de no tenir un usuari creat a la base de dades de l'aplicació tenim l'oportunitat de fer-ho mitjançant la pàgina de registre:
+<p align= "center">
+  <img src="images/Registrar.png" width="500px">
+</p>
+
+> Per altra banda, en cas de tenir un usuari creat però haver oblidat quina era la contrasenya per a poder accedir, amb la pantalla de "Recordar contrasenya" podrem restablir el accés al compte de manera molt fàcil.
+<p align= "center">
+  <img src="images/RecordarContrasenya.png" width="500px">
+</p>
+
+> Amb totes les autenticacions possibles ja superades ha arrivat el moment de poder accedir a tot el contingut del qual disposa la pàgina. Primerament ens trovem amb la portada de la pàgina. 
+> A aquesta pàgina podrem les diferents xarxes socials de les quals disposa HadaFlix, al igual que també podrem observar el menú de l'aplicació, on podrem viatjar per tal de cercar les diferents pel·lícules, sèries i jocs més actuals que es disposen fins a la dada.
+<p align= "center">
+  <img src="images/Portada.png" width="500px">
+</p>
+
+> A l'apartat de pel·lícules podem visualitzar en primera estança, totes les pel·lícules que es disposen a l'aplicació. 
+<p align= "center">
+  <img src="images/Pelicules.png" width="500px">
+</p>
+
+> En cas de que la portada d'una pel·lícula, una sèrie o un joc no siga suficient per tal de comprar o llogar un producte, cap la possibitat de accedir al seu contingut pulsant sota la imatge. Aquest acció ens deixarà com a resultat la següent pàgina (Cas similar per a sèries i jocs també).
+<p align= "center">
+  <img src="images/PeliculaSoles.png" width="500px">
+</p>
+
+<p align= "center">
+  <img src="images/Series.png" width="500px">
+</p>
+
+<p align= "center">
+  <img src="images/Jocs.png" width="500px">
+</p>
+
+<p align= "center">
+  <img src="images/Mapa.png" width="500px">
+</p>
 
 ### <a name="4-4-2"/> 4.4.2. Usuari i contrasenya:
 > Després del problema de una mala planificació del producte final, l’aplicació s’ha quedat privada d’una part d’administració on es pugui poder afegir els diferents articles dels quals disposa el videoclub.
