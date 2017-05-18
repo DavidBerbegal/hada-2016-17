@@ -123,11 +123,14 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 
 ## <a name="4-1"/> 4.1. Canvis:
 > Respecte a la proposta de projecte que es va realitzar primerament s’han realitzat diversos canvis que han canviat el resultat final de l’aplicació. Els canvis realitzats són:
-o	S’ha afegit un mapa on es pot comprovar la localització física del videoclub.
-o	En cas de que un usuari es registre en l’aplicació i oblide la seua contrasenya, amb la inserció del seu correu en la pantalla de “recordar contrasenya”, s’enviarà la contrasenya del correu insertat al correu corresponent.
-o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuari podrà realitzar les mateixes accions que realitzava sobre pel·lícules i sèries, ara també sobre jocs.
+-	S’ha afegit un mapa on es pot comprovar la localització física del videoclub.
+-	En cas de que un usuari es registre en l’aplicació i oblide la seua contrasenya, amb la inserció del seu correu en la pantalla de “recordar contrasenya”, s’enviarà la contrasenya del correu insertat al correu corresponent.
+-	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuari podrà realitzar les mateixes accions que realitzava sobre pel·lícules i sèries, ara també sobre jocs.
+- Per altra banda també s'ha afegit la pantalla on es poden insertar les dades bancàries per tal de poder realitzar la compra o lloguer del contingut que es vol.
 
 ## <a name="4-2"/> 4.2. Dificultats:
+> Les principals dificultats en les quals s'ha trovat el grup de desenvolupament han sigut:
+- 
 
 ## <a name="4-3"/> 4.3. Problemes:
 > El principal problema en el qual ens em trobat a l’hora de realitzar el projecte a sigut l’enfocament erroni del conjunt final. 
@@ -168,6 +171,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <img src="images/PeliculaSoles.png" width="500px">
 </p>
 
+> També es disposa, al igual que per a les pel·lícules, una pantalla per a sèries i jocs, com pròpiament podrem veure a continuació:
 <p align= "center">
   <img src="images/Series.png" width="500px">
 </p>
@@ -176,6 +180,7 @@ o	També s’ha afegit un nou tipus d’article al videoclub, els jocs. Un usuar
   <img src="images/Jocs.png" width="500px">
 </p>
 
+> Per a concloure amb les instruccions d'ús de l'aplicació trovarem al pantalla de localització, la qual ens indica la localització física de HadaFlix.
 <p align= "center">
   <img src="images/Mapa.png" width="500px">
 </p>
