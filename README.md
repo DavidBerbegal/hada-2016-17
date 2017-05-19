@@ -130,7 +130,8 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 
 ## <a name="4-2"/> 4.2. Dificultats:
 > Les principals dificultats en les quals s'ha trovat el grup de desenvolupament han sigut:
-- 
+- DataDirectory: No teniem ben orientat l'estructura del projecte.
+- Les Cookies: No saviem com enfocar-ho fins que vam buscar en les transparències de classe.
 
 ## <a name="4-3"/> 4.3. Problemes:
 > El principal problema en el qual ens em trobat a l’hora de realitzar el projecte a sigut l’enfocament erroni del conjunt final. 
