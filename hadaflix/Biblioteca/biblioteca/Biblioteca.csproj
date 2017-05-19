@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Biblioteca</RootNamespace>
     <AssemblyName>Biblioteca</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -31,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,9 +42,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAD\CADAlquiler.cs" />
+    <Compile Include="CAD\CADCliente.cs" />
+    <Compile Include="CAD\CADEmpleado.cs" />
+    <Compile Include="CAD\CADLineaAdquisicion.cs" />
+    <Compile Include="CAD\CADPedido.cs" />
+    <Compile Include="CAD\CADProducto.cs" />
+    <Compile Include="CAD\CADProveedor.cs" />
+    <Compile Include="CAD\CADAdquisicion.cs" />
+    <Compile Include="CAD\CADVenta.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="EN\ENAlquiler.cs" />
+    <Compile Include="EN\ENCliente.cs" />
+    <Compile Include="EN\ENEmpleado.cs" />
+    <Compile Include="EN\ENLineaAdquisicion.cs" />
+    <Compile Include="EN\ENPedido.cs" />
+    <Compile Include="EN\ENProducto.cs" />
+    <Compile Include="EN\ENProveedor.cs" />
+    <Compile Include="EN\ENAdquisicion.cs" />
+    <Compile Include="EN\ENVenta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

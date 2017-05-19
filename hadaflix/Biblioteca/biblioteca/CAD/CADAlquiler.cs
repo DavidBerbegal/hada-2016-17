@@ -9,14 +9,27 @@ namespace Biblioteca
 {
     public class CADAlquiler : CADAdquisicion
     {
-        private SqlConnection conexion = null;
+        private SqlConnection conexion = Database.getConnection();
 
         //CONSTRUCTOR
         public CADAlquiler()
         {
-            conexion = new SqlConnection();
-            conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\documents\visual studio 2015\Projects\HADAFLIX2\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
-            conexion.Open();
+            try
+            {
+                /*
+                conexion = new SqlConnection();
+                // string s = "data source=.\\SQLEXPRESS;Integrated Security = SSPI; AttachDBFilename =| DataDirectory |\\Database1.mdf; User Instance = true";
+                conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+                //conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\documents\visual studio 2015\Projects\HADAFLIX2\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+                */
+                conexion.Open();
+                //conexion.Open();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error: {0}", ex.Message);
+            }
+
         }
 
         // INSERTAR UN ALQUILER
@@ -30,7 +43,7 @@ namespace Biblioteca
                 string sentencia = "INSERT INTO adquisicion " +
                     "(codventa, importe, numfact, cliente, empleado, tipo) VALUES ('" + alquiler.CodVenta
                         + "' , " + s + " ,'" + alquiler.NumFactura + "','" + alquiler.DniCliente
-                        + "','" + alquiler.DniEmpleado + "', '"+ alquiler.Tipo + "');";
+                        + "','" + alquiler.DniEmpleado + "', '"+ 'a' + "');";
 
                 SqlCommand cmd = new SqlCommand(sentencia, conexion);
                 cmd.ExecuteNonQuery();
@@ -145,6 +158,29 @@ namespace Biblioteca
                 if (conexion != null)
                     conexion.Close();
             }
+        }
+        public int CuentaAlquileres()
+        {
+            int numAlquileres = 0;
+            try
+            {
+                string sentencia = "SELECT COUNT(*) FROM alquiler";
+                SqlCommand cmd = new SqlCommand(sentencia, conexion);
+                cmd.ExecuteNonQuery();
+                SqlDataReader dr = cmd.ExecuteReader();
+                dr.Read();
+                numAlquileres = dr.GetInt32(0);
+            }
+            catch (SqlException e)
+            {
+                throw e;
+            }
+            finally
+            {
+                if (conexion != null)
+                    conexion.Close();
+            }
+            return numAlquileres;
         }
 
     }

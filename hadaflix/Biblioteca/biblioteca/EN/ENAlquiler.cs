@@ -104,5 +104,13 @@ namespace Biblioteca
 
             return adquisiciones;
         }
+        public int CuentaAlquileres()
+        {
+            int cuantos = 0;
+            CADAlquiler nuevo = new CADAlquiler();
+            cuantos = nuevo.CuentaAlquileres();
+            
+            return cuantos;
+        }
     }
 }

@@ -9,13 +9,15 @@ namespace Biblioteca
 {
     public class CADPedido
     {
-        private SqlConnection conexion = null;
+        private SqlConnection conexion = Database.getConnection();
 
         //CONSTRUCTOR
         public CADPedido()
         {
+            /*
             conexion = new SqlConnection();
             conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Virginia Aracil\Desktop\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+            */
             conexion.Open();
         }
 

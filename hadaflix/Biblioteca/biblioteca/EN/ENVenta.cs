@@ -77,5 +77,12 @@ namespace Biblioteca
 
             return adquisiciones;
         }
+        public int CuentaVentas()
+        {
+            int cuantas = 0;
+            CADVenta nueva = new CADVenta();
+            cuantas = nueva.CuentaVentas();
+            return cuantas;
+        }
     }
 }

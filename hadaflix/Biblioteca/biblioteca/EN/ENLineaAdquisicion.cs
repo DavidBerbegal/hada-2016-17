@@ -28,12 +28,23 @@ namespace Biblioteca
         }
 
         //PARAMETROS
-        public ENLineaAdquisicion(string codAdquisicion, string codProducto, float cantidad, float subtotal)
+        public ENLineaAdquisicion(string codAdquisicion, string codProducto, float cantidad)
         {
             this._codAdquisicion = codAdquisicion;
             this._codProducto = codProducto;
             this._cantidad = cantidad;
-            this._subtotal = subtotal;
+            List<ENProducto> productos = null;
+            ENProducto nuevo = new ENProducto();
+            productos = nuevo.BuscarProducto();
+            float precio = 0.0f;
+            for(int i = 0; i < productos.Count; i++)
+            {
+                if(productos[i].IdProducto == codProducto)
+                {
+                    precio = productos[i].Precio;
+                }
+            }
+            this._subtotal = precio * cantidad;
         }
         #endregion
 
@@ -106,5 +117,23 @@ namespace Biblioteca
             cadLineaAdquisicion.EliminarLineaAdquisicion(this);
         }
         #endregion
+
+        public float subtotalcliente()
+        {
+            float subtotal;
+
+            CADLineaAdquisicion cadLineaAdquisicion;
+            cadLineaAdquisicion = new CADLineaAdquisicion();
+            subtotal = cadLineaAdquisicion.subtotal();
+
+            return subtotal;
+        }
+
+        public void EliminarAdquisiciones()
+        {
+            CADLineaAdquisicion cadAdquisicion;
+            cadAdquisicion = new CADLineaAdquisicion();
+            cadAdquisicion.EliminarAdquisiciones();
+        }
     }
 }

@@ -1,0 +1,147 @@
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\ApplicationInsights.config
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\hadaflix.dll.config
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\hadaflix.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\hadaflix.pdb
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.Web.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.IO.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.Runtime.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.Threading.Tasks.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.Web.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.IO.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.Runtime.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\System.Threading.Tasks.xml
+C:\Users\Javi\Desktop\hadaflix\hadaflix\obj\Debug\hadaflix.csproj.App.config
+C:\Users\Javi\Desktop\hadaflix\hadaflix\obj\Debug\hadaflix.csprojResolveAssemblyReference.cache
+C:\Users\Javi\Desktop\hadaflix\hadaflix\obj\Debug\hadaflix.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\obj\Debug\hadaflix.pdb
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Biblioteca.dll
+C:\Users\Javi\Desktop\hadaflix\hadaflix\bin\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\obj\Debug\hadaflix.csproj.App.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\obj\Debug\hadaflix.csprojResolveAssemblyReference.cache
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\obj\Debug\hadaflix.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\obj\Debug\hadaflix.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\ApplicationInsights.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\hadaflix.dll.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\hadaflix.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\hadaflix.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.Web.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.IO.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.Runtime.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.Threading.Tasks.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.Web.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.IO.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.Runtime.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\System.Threading.Tasks.xml
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\hadaflix\bin\AjaxControlToolkit.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\ApplicationInsights.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\hadaflix.dll.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\hadaflix.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\hadaflix.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\AjaxControlToolkit.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.Web.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.IO.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.Runtime.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.Threading.Tasks.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.Web.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.IO.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.Runtime.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\bin\System.Threading.Tasks.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\obj\Debug\hadaflix.csproj.App.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\obj\Debug\hadaflix.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\obj\Debug\hadaflix.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\hadaflix\hadaflix\obj\Debug\hadaflix.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\ApplicationInsights.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\hadaflix.dll.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\hadaflix.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\hadaflix.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\AjaxControlToolkit.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.Web.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.IO.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.Runtime.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.Threading.Tasks.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.Web.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.ApplicationInsights.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.IO.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.Runtime.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\bin\System.Threading.Tasks.xml
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\obj\Debug\hadaflix.csproj.App.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\obj\Debug\hadaflix.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\obj\Debug\hadaflix.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\hadaflix\hadaflix\obj\Debug\hadaflix.pdb

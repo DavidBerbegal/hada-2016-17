@@ -1,0 +1,8 @@
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\bin\Debug\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\hadaflix\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

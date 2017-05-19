@@ -121,5 +121,8 @@ namespace Biblioteca
             cadAdquisicion.EliminarAdquisicion(this);
         }
         #endregion
+
+
+
     }
 }
