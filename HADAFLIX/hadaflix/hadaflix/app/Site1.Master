@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="hadaflix.app.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HADAFLIX</title>
+
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet"/>
+	
+	<!-- ENLAZAR CON CSS PROPIO-->
+    <link href="css/Master1.css" rel="stylesheet" />
+	<!-- ICONOS-->
+	<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'/>
+	
+	<!-- ANIMACION-->
+	<link rel='stylesheet prefetch' href='https://cdn.jsdelivr.net/animatecss/3.5.1/animate.min.css' />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+  <div class="row">
+    <div class="col-xs-8">
+      <div id="custom-bootstrap-menu" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+          <div class="navbar-header"><a class="navbar-brand" href="Defecto.aspx">HADAFLIX</a>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-menubuilder">
+            <ul class="nav navbar-nav navbar-right">
+              <li><asp:HyperLink ID="UserLink" runat="server"></asp:HyperLink>
+              </li>
+              <li><a href="Peliculas.aspx">Películas</a>
+              </li>
+              <li><a href="Series.aspx">Series</a>
+              </li>
+              <li><a href="Juegos.aspx">Juegos</a>
+              </li>
+              <li><a href="Contactos.aspx">Contactos</a>
+              </li>
+              <li>
+                  <a href="">
+                  &nbsp; <asp:Label ID="Label1" runat="server" ForeColor="Red" Height="10"></asp:Label>
+                  </a>
+              </li>
+                <li><a href="Carrito.aspx"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></a></li>
+                <li><a href="Login.aspx"><span class="glyphicon glyphicon-log-out" aria-hidden="true"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+    <form id="form1" runat="server">
+
+    <div class="cajaDelMapa">
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <!-- Inicio copyright -->
+<div class="wrapper">
+    <marquee>Copyright &copy; hadaflix</marquee>
+</div>
+    
+	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhjKbZZMDnAYtnhcINz82maxKieSlCmWg&callback=initMap"
+    async defer></script>
+  </script>
+  </body>
+</html>
