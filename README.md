@@ -172,6 +172,16 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
   <img src="images/PeliculaSoles.png" width="500px">
 </p>
 
+> Ja has acavat i vols finalitzar la compra o el lloguer?
+
+<p align= "center">
+  <img src="images/Carrito.PNG" width="500px">
+</p>
+
+<p align= "center">
+  <img src="images/Compra1.PNG" width="500px">
+</p>
+
 > També es disposa, al igual que per a les pel·lícules, una pantalla per a sèries i jocs, com pròpiament podrem veure a continuació:
 <p align= "center">
   <img src="images/SeriesF.png" width="500px">
@@ -650,4 +660,4 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 </table>
 
 # <a name="5"/> 5. Presentació del projecte: 
-## Ubicació: /Presentacio/Presentacio.pdf
+## Ubicació: /Presentació
