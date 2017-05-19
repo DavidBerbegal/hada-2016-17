@@ -475,6 +475,10 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
   </tr>
   <tr>
     <td></td>
+    <td>APSX de Pago</td> 
+  </tr>
+  <tr>
+    <td></td>
     <td>Maquetació</td> 
   </tr>
   <tr>
