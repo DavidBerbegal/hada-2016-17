@@ -9,13 +9,15 @@ namespace Biblioteca
 {
     public class CADProveedor
     {
-        private SqlConnection conexion = null;
+        private SqlConnection conexion = Database.getConnection();
 
         //CONSTRUCTOR
         public CADProveedor()
         {
+            /*
             conexion = new SqlConnection();
             conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\documents\visual studio 2015\Projects\HADAFLIX2\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+            */
             conexion.Open();
         }
       

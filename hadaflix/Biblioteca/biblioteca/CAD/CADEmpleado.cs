@@ -9,24 +9,44 @@ namespace Biblioteca
 {
     public class CADEmpleado
     {
-        private SqlConnection conexion = null;
+        private SqlConnection conexion = Database.getConnection();
+        //Database dat = new Database();
 
         //CONSTRUCTOR
         public CADEmpleado()
         {
+            /*
             try
             {
-                conexion = new SqlConnection();
-                // conexion.ConnectionString = @"Data Source=.\SQLEXPRESS;AttachDbFilename=C:\HADAFLIX\bd_hadaflix.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
-                // PARA QUE FUNCIONE LA CONEXION LOCAL, LO DEL FINAL DEL TODO (User Instance=True) HAY QUE QUITARLO
-                // conexion.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\Downloads\ZZZZ\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
-                conexion.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\Downloads\ZZZZ\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security=True;Connect Timeout=30";
+                conexion = Database.getConnection();
                 conexion.Open();
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error: {0}", ex.Message);
             }
+            */
+            
+            try
+            {
+                //conexion = new SqlConnection();
+                // conexion.ConnectionString = @"Data Source=.\SQLEXPRESS;AttachDbFilename=C:\HADAFLIX\bd_hadaflix.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
+                // PARA QUE FUNCIONE LA CONEXION LOCAL, LO DEL FINAL DEL TODO (User Instance=True) HAY QUE QUITARLO
+                // conexion.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\Downloads\ZZZZ\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
+                // string s = "data source=.\\SQLEXPRESS;Integrated Security = SSPI; AttachDBFilename =| DataDirectory |\\Database1.mdf; User Instance = true";
+
+                //string s = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+                //conexion = new SqlConnection(s);   
+                //conexion = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["databaseConnectionString"].ConnectionString); 
+
+                //conexion.ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\Downloads\ZZZZ\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security=True;Connect Timeout=30";
+                conexion.Open();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error: {0}", ex.Message);
+            }
+            
 
         }
 

@@ -174,5 +174,12 @@ namespace Biblioteca
             cadProducto.EliminarProducto(this);
         }
         #endregion
+
+        public void eliminarnombre()
+        {
+            CADLineaAdquisicion cadLineaAdquisicion;
+            cadLineaAdquisicion = new CADLineaAdquisicion();
+            cadLineaAdquisicion.EliminarNombre(_titulo);
+        }
     }
 }

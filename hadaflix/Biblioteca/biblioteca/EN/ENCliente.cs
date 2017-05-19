@@ -222,5 +222,14 @@ namespace Biblioteca
             CADCliente userDAC = new CADCliente();
             return userDAC.BuscarCliente(_dni);
         }
+
+        public List<ENCliente> BuscarClienteMail()
+        {
+            List<ENCliente> clientes = new List<ENCliente>();
+            CADCliente c = new CADCliente();
+            clientes = c.BuscarClienteMail(_mail);
+
+            return clientes;
+        }
     }
 }

@@ -9,15 +9,17 @@ namespace Biblioteca
 {
     public class CADLineaAdquisicion
     {
-        private SqlConnection conexion = null;
+        private SqlConnection conexion = Database.getConnection();
 
         //CONSTRUCTOR
         public CADLineaAdquisicion()
         {
             try
             {
+                /*
                 conexion = new SqlConnection();
                 conexion.ConnectionString = @"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\bbdd\bbdd\App_Data\base de datos.mdf;Integrated Security = True; Connect Timeout = 30";
+                */            
                 conexion.Open();
             }
             catch (Exception ex)
@@ -138,5 +140,85 @@ namespace Biblioteca
             }
         }
 
+        public float subtotal()
+        {
+            float subtotal = 0;
+            try
+            {
+
+                /*
+                string s = lineaAdquisicion.Subtotal.ToString("R");
+                s = s.Replace(",", ".").Replace(".", ".");
+                */
+                string sentencia = "select sum(subtotal) suma from lineaadquisicion;";
+                SqlCommand cmd = new SqlCommand(sentencia, conexion);
+                cmd.ExecuteNonQuery();
+
+                SqlDataReader dr = cmd.ExecuteReader();
+                dr.Read();
+
+                if (dr.HasRows)
+                {
+                    subtotal = (float)dr.GetDouble(0);
+                }
+
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine("Error: {0}", e.Message);
+            }
+            finally
+            {
+                if (conexion != null)
+                    conexion.Close();
+            }
+
+            return subtotal;
+        }
+
+        public void EliminarNombre(string nombre)
+        {
+            string codprod;
+            try
+            {
+                string sentencia = "select idproducto from productos where titulo = '" + nombre + "'";
+                SqlCommand cmd = new SqlCommand(sentencia, conexion);
+                cmd.ExecuteNonQuery();
+                SqlDataReader dr = cmd.ExecuteReader();
+                dr.Read();
+                codprod = dr.GetString(0);
+                sentencia = "DELETE FROM lineaadquisicion WHERE codadquisicion = '" + codprod + "';";
+                cmd = new SqlCommand(sentencia, conexion);
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine("Error: {0}", e.Message);
+            }
+            finally
+            {
+                if (conexion != null)
+                    conexion.Close();
+            }
+        }
+
+        public void EliminarAdquisiciones()
+        {
+            try
+            {
+                string sentencia = "DELETE FROM lineaadquisicion";
+                SqlCommand cmd = new SqlCommand(sentencia, conexion);
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine("Error: {0}", e.Message);
+            }
+            finally
+            {
+                if (conexion != null)
+                    conexion.Close();
+            }
+        }
     }
 }

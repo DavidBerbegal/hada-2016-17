@@ -1,0 +1,486 @@
+﻿/* Reseting default values */
+
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    z-index: -1;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* ------------------ */
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: red;
+}
+
+#custom-bootstrap-menu.navbar-default {
+    font-size: 1.24em;
+    background-color: rgba(0, 0, 0, 1);
+    background: -webkit-linear-gradient(top, rgba(36, 36, 36, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    background: linear-gradient(to bottom, rgba(36, 36, 36, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    border-bottom-width: 0;
+}
+
+    #custom-bootstrap-menu.navbar-default .navbar-nav > li > a {
+        color: red;
+        background-color: rgba(248, 248, 248, 0);
+    }
+
+        #custom-bootstrap-menu.navbar-default .navbar-nav > li > a:hover,
+        #custom-bootstrap-menu.navbar-default .navbar-nav > li > a:focus {
+            color: red;
+            background-color: rgba(64, 64, 64, 1);
+        }
+
+    #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:hover,
+    #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:focus {
+        color: rgba(214, 214, 214, 1);
+        background-color: rgba(54, 54, 54, 1);
+    }
+
+    #custom-bootstrap-menu.navbar-default .navbar-toggle {
+        border-color: #363636;
+    }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+            background-color: #363636;
+        }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+            background-color: #363636;
+        }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+            background-color: red;
+        }
+
+#custom-bootstrap-menu {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.35em;
+}
+
+
+/* ---------------- */
+
+
+/* Splash Screen */
+
+.image {
+    height: 100%;
+    width: 100%;
+    background: url("../img/fondo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+.splash_screen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 55%;
+    z-index: 2;
+}
+
+.page-header {
+    border-bottom-color: #bdbdbd;
+}
+
+    .page-header h1:nth-child(1) {
+        font-size: 4.85em;
+        font-family: 'Roboto', sans-serif;
+        position: relative;
+        top: 0.4em;
+        color: red;
+    }
+
+    .page-header h1:nth-child(2) {
+        font-size: 2.43em;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .page-header h1 small {
+        color: red;
+    }
+
+.icons i {
+    margin: 0 0.4em;
+    color: red;
+}
+
+.shade {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.78);
+}
+
+.name {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+}
+
+.description {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Peliculas*/
+
+.projects_image {
+    width: 100%;
+    background: url("../img/peli.jpg");
+    background-size: cover;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+.projects img {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+}
+
+.projects img {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+}
+
+input[type="image"] {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+}
+
+.projects .page-header h1 {
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    margin: 0.81em;
+    font-size: 50px;
+}
+
+.projects .thumbnail {
+    color: black;
+}
+
+    .projects .thumbnail:hover {
+        background-color: red;
+        border-color: black;
+    }
+
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Series*/
+
+.projects_image_series {
+    width: 100%;
+    background: url("../img/serie.jpg");
+    background-size: cover;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+.projects_series img {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+}
+
+.projects_series .page-header h1 {
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    margin: 0.81em;
+    font-size: 50px;
+}
+
+.projects_series .thumbnail {
+    color: black;
+}
+
+    .projects_series .thumbnail:hover {
+        background-color: red;
+        border-color: black;
+    }
+
+
+/* ------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------- */
+/* Projects Juegos*/
+
+.projects_image_juegos {
+    width: 100%;
+    background: url("../img/mass.jpg");
+    background-size: cover;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+.projects_juegos img {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+}
+
+.projects_juegos .page-header h1 {
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    margin: 0.81em;
+    font-size: 50px;
+}
+
+.projects_juegos .thumbnail {
+    color: black;
+}
+
+    .projects_juegos .thumbnail:hover {
+        background-color: red;
+        border-color: black;
+    }
+
+
+/* ------------------- */
+
+
+/* Contact Me */
+#map {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    position: absolute;
+}
+
+.cajaDelMapa {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+}
+
+/* ------------------ */
+/* Footer */
+.wrapper {
+    height: 3em;
+    background-color: rgba(0, 0, 0, 1);
+    width: 100%;
+    padding-top: 12px;
+    z-index:2;
+}
+
+marquee {
+    color: red;
+}
+
+
+/* ------------------- */
+/* -----PRODUCTOS----- */
+/* ------------------- */
+
+/* modals */
+
+.service-modal .modal-dialog {
+    height: 90%;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    position: absolute;
+}
+
+.service-modal .modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    font: 14px/22px "Lato", Arial, sans-serif;
+    color: #A9A8A3;
+}
+
+
+
+.service-modal .close-modal {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    top: 50px;
+    right: 50px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+    .service-modal .close-modal .close-icon {
+        height: 30px;
+        width: 3px;
+        margin-left: 15px;
+        background-color: red;
+        transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        z-index: 2;
+    }
+
+    .service-modal .close-modal:hover .close-icon {
+        background-color: white;
+    }
+
+    .service-modal .close-modal .close-icon .close-icon-r {
+        height: 30px;
+        width: 3px;
+        background-color: red;
+        transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        /* IE 9 */
+        -webkit-transform: rotate(90deg);
+        /* Safari and Chrome */
+        z-index: 2;
+    }
+
+    .service-modal .close-modal:hover .close-icon .close-icon-r {
+        background-color: white;
+    }
+
+
+
+/************************************
+***********CONTENIDO*****************
+*************************************/
+
+.hero {
+    height: 342px;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+    .hero:before {
+        content: '';
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        overflow: hidden;
+        top: 0;
+        left: 0;
+        background: red;
+        background: url("../img/hobbit1.jpg");
+        background-size: cover;
+        transform: skewY(-2.2deg);
+        transform-origin: 0 0;
+        -webkit-backface-visibility: hidden;
+        z-index: -1;
+    }
+
+.cover {
+    position: absolute;
+    top: 160px;
+    left: 40px;
+    z-index: 2;
+}
+
+.details {
+    padding: 190px 0 0 280px;
+}
+
+    .details .title1 {
+        color: white;
+        font-size: 44px;
+        margin-bottom: 13px;
+        position: relative;
+        z-index: 2;
+    }
+
+    .pegi {
+        position: absolute;
+        top: 3px;
+        margin-left: 12px;
+        background: #C4AF3D;
+        border-radius: 5px;
+        color: #544C21;
+        font-size: 14px;
+        padding: 0px 4px;
+        z-index: 2;
+    }
+
+    .details .title2 {
+        color: #C7C1BA;
+        font-size: 23px;
+        font-weight: 300;
+        margin-bottom: 15px;
+        z-index: 2;
+    }
+
+.description {
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    line-height: 26px;
+    color: #B1B0AC;
+}
+
+.column1 {
+    padding-left: 50px;
+    padding-top: 120px;
+    width: 220px;
+    float: left;
+    text-align: center;
+}
+
+.tag {
+    background: white;
+    border-radius: 10px;
+    padding: 3px 8px;
+    font-size: 14px;
+    margin-right: 4px;
+    line-height: 35px;
+    cursor: pointer;
+}
+
+    .tag:hover {
+        background: #ddd;
+    }

@@ -13,3 +13,22 @@ C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblio
 C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
 C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
 C:\Users\javie\Documents\Visual Studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\javie\documents\visual studio 2015\Projects\HADAFLIX2\biblioteca\biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\javie\Documents\Visual Studio 2015\Projects\hadaflix\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\hadaflix_pollajavi\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\bin\Debug\Biblioteca.dll.config
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\javie\Desktop\HASTA_LA_POLLA\HADAFLIX_FINAL\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
