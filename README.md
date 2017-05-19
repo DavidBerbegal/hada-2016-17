@@ -143,7 +143,7 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 ### <a name="4-4-1"/> 4.4.1. Guia d’ús de l’aplicació:
 > Amb l'entrada a la pàgina ens trovem, primerament, amb el login de la pàgina; el qual serà imprescindible completar si desitjem accedir a la resta del contingut de la pàgina. La seua aparença és la següent:
 <p align= "center">
-  <img src="images/Login.png" width="500px">
+  <img src="images/LoginF.png" width="500px">
 </p>
 
 > En cas de no tenir un usuari creat a la base de dades de l'aplicació tenim l'oportunitat de fer-ho mitjançant la pàgina de registre:
@@ -164,7 +164,7 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 
 > A l'apartat de pel·lícules podem visualitzar en primera estança, totes les pel·lícules que es disposen a l'aplicació. 
 <p align= "center">
-  <img src="images/Pelicules.png" width="500px">
+  <img src="images/PeliculesF.png" width="500px">
 </p>
 
 > En cas de que la portada d'una pel·lícula, una sèrie o un joc no siga suficient per tal de comprar o llogar un producte, cap la possibitat de accedir al seu contingut pulsant sota la imatge. Aquest acció ens deixarà com a resultat la següent pàgina (Cas similar per a sèries i jocs també).
@@ -174,7 +174,7 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
 
 > També es disposa, al igual que per a les pel·lícules, una pantalla per a sèries i jocs, com pròpiament podrem veure a continuació:
 <p align= "center">
-  <img src="images/Series.png" width="500px">
+  <img src="images/SeriesF.png" width="500px">
 </p>
 
 <p align= "center">
