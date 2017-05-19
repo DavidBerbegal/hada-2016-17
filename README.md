@@ -238,10 +238,6 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
   </tr>
   <tr>
     <td></td>
-    <td>APSX de Producte</td> 
-  </tr>
-  <tr>
-    <td></td>
     <td>APSX de Contacte</td> 
   </tr>
   <tr>
@@ -464,10 +460,6 @@ D'altra banda, també seria interessant la possibilitat de poder seleccionar el 
   <tr>
     <td></td>
     <td>Test de Proveïdor</td> 
-  </tr>
-  <tr>
-    <td></td>
-    <td>APSX de Producte</td> 
   </tr>
   <tr>
     <td></td>
