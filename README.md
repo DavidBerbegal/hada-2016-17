@@ -64,13 +64,13 @@
   
   <img src="images/Categories.png" width="500px">
 
-  <img src="images/series.png" width="500px">
+  <img src="images/seriesM.png" width="500px">
 
-  <img src="images/pelicules.png" width="500px">
+  <img src="images/peliculesM.png" width="500px">
 
   <img src="images/registre.png" width="500px">
 
-  <img src="images/login.png" width="500px">
+  <img src="images/loginM.png" width="500px">
 </p>
 
 
